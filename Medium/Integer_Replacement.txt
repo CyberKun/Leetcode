@@ -1,0 +1,12 @@
+class Solution {
+public:
+    int integerReplacement(int n) {
+        auto func = [&](auto&& self, long long x) -> int {
+            if (x == 1) return 0;   
+            if(x%2 == 0) return 1 + self(self,x/2) ;
+            return min(self(self, x - 1),self(self,x+1)) + 1; 
+        };
+        int result = func(func,(long long) n);
+        return result;
+    }
+};
