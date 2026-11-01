@@ -62,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CyberKun/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Array
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CyberKun/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CyberKun/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
