@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CyberKun/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0485-max-consecutive-ones](https://github.com/CyberKun/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
