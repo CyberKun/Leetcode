@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CyberKun/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/CyberKun/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CyberKun/Leetcode/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CyberKun/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/CyberKun/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/CyberKun/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CyberKun/Leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CyberKun/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
