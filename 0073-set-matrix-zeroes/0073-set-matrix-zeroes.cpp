@@ -13,13 +13,10 @@ public:
             }
         }
 
-        for(int i=0;i<n;i++){
+        for(int i=0;i<max(n,m);i++){
             if(rows[i]){
                 for(int j=0;j<m;j++)matrix[i][j]=0;
             }
-        }
-
-        for(int i=0;i<m;i++){
             if(cols[i]){
                 for(int j=0;j<n;j++)matrix[j][i]=0;
             }
