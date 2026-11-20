@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/CyberKun/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CyberKun/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CyberKun/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CyberKun/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CyberKun/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/CyberKun/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/CyberKun/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CyberKun/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CyberKun/Leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/CyberKun/Leetcode/tree/master/0268-missing-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/CyberKun/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CyberKun/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Matrix
 |  |
 | ------- |
