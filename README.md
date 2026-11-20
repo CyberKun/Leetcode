@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/CyberKun/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CyberKun/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/CyberKun/Leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/CyberKun/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/CyberKun/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/CyberKun/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/CyberKun/Leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/CyberKun/Leetcode/tree/master/0268-missing-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/CyberKun/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Matrix
 |  |
 | ------- |
